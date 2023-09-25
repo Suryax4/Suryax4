@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hello, I'm Surya Prakash Singh 👋
 
-<!--
-**Suryax4/Suryax4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Web Developer with 2 years of experience in MERN Stack.Currently Pursuing Bachelor Of Technology in Information Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Firebase Technology.
+
+### 🚀 Skills
+
+Here are some of my technical skills:
+
+- **Programming Languages:** C++, JavaScript
+- **Frameworks & Tools:** React, Express, JIRA, Docker
+- **Databases:** MYSQL, MONGODB
+- **Other:** Object Oriented Programming, Database Management System, Operating System, Computer Networks
+
+---
+
+### 📚 Featured Projects
+
+Take a look at some of my noteworthy projects:
+
+- [Pokemon Adoption App](https://github.com/Suryax4/Hyathi-Assesment) - Short project description.
+- [Gmail Clone App](https://github.com/YourGitHubUsername/project2) - Short project description.
+
+---
+
+### 💬 Let's Connect
+
+Feel free to reach out and connect with me:
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/surya-prakash-singh-80b952200/)
+- Twitter: [Your Twitter Handle](https://twitter.com/_ineffable_guy_)
+
+
+---
+
+### ✨ Thanks for visiting!
+
+Thanks for checking out my profile. Have a great day!
